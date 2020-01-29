@@ -6,4 +6,3 @@ JOIN departments ON
 departments.dept_no=dept_emp.dept_no
 WHERE dept_name = 'Sales' OR 
 	dept_name = 'Development'
-
